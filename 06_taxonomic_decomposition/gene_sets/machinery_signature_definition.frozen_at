@@ -1,0 +1,3 @@
+2026-10-12T17:52:08.079285
+Defined AFTER the masking analysis pointed to these functions; gene lists chosen by name, not from KEGG maps; used for sensitivity/synthesis only.
+symbol column of ribosomal proteins filled from KEGG names after first run (KO list unchanged)

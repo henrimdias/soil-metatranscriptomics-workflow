@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it as below, together with the tools it runs (see README), in particular nf-core/metatdenovo for the assembly cross-check."
+title: "Soil metatranscriptomics workflow"
+type: software
+license: MIT
+authors:
+  - family-names: Dias
+    given-names: Henrique Moura
+    orcid: "https://orcid.org/0000-0002-5157-873X"
+    affiliation: "South Dakota State University"
+references:
+  - type: article
+    title: "The Nextflow nf-core/metatdenovo pipeline for reproducible annotation of metatranscriptomes, and more"
+    authors:
+      - family-names: Di Leo
+        given-names: Danilo
+      - family-names: Nilsson
+        given-names: Emelie
+      - family-names: Krinos
+        given-names: Arianna
+      - family-names: Pinhassi
+        given-names: Jarone
+      - family-names: Lundin
+        given-names: Daniel
+    journal: "PeerJ"
+    volume: 13
+    start: e20328
+    year: 2025
+    doi: "10.7717/peerj.20328"

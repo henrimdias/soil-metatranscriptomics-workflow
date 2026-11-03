@@ -1,0 +1,393 @@
+module	submodule	KO	symbol	kegg_name	rule
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06429	sspL	sspL; small acid-soluble spore protein L (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06329	cotF	cotF; spore coat protein F	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06421	sspD	sspD; small acid-soluble spore protein D (minor alpha/beta-type SASP)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06325	cotB	cotB; spore coat protein B	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06319	cgeA	cgeA; spore maturation protein CgeA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06406	spoVAD	spoVAD; stage V sporulation protein AD	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06383	spoIIGA	spoIIGA; stage II sporulation protein GA (sporulation sigma-E factor processing peptidase) [EC:3.4.23.-]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	initiation / phosphorelay	K13533	kinE	kinE; two-component system, sporulation sensor kinase E [EC:2.7.13.3]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06327	cotD	cotD; spore coat protein D	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06373	spmA	spmA; spore maturation protein A	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06409	spoVB	spoVB; stage V sporulation protein B	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06413	spoVK	spoVK; stage V sporulation protein K	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06391	spoIIIAB	spoIIIAB; stage III sporulation protein AB	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06333	cotJB	cotJB; spore coat protein JB	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K06348	kapD	kapD; sporulation inhibitor KapD	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06428	sspK	sspK; small acid-soluble spore protein K (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K07699	spo0A	spo0A; two-component system, response regulator, stage 0 sporulation protein A	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	initiation / phosphorelay	K07698	kinC	kinC; two-component system, sporulation sensor kinase C [EC:2.7.13.3]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06422	sspE	sspE; small acid-soluble spore protein E	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06338	cotSA	cotSA; spore coat protein SA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06343	cotY_Z	cotY_Z; CotY/CotZ family spore coat protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K02490	spo0F	spo0F; two-component system, response regulator, stage 0 sporulation protein F	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06331	cotI	cotI; spore coat protein I	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K03091	sigE_F_G	sigE_F_G; RNA polymerase sigma-E/F/G factor	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06393	spoIIIAD	spoIIIAD; stage III sporulation protein AD	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06425	sspH	sspH; small acid-soluble spore protein H (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06315	splA	splA; transcriptional regulator of the spore photoproduct lyase operon	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06440	yraG	yraG; similar to spore coat protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06337	cotS	cotS; spore coat-associated protein S	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06370	safA	safA; morphogenetic protein associated with SpoVID	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K04769	spoVT	spoVT; AbrB family transcriptional regulator, stage V sporulation protein T	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06418	sspA_B_C_D	sspA_B_C_D; small acid-soluble spore protein A/B/C/D	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06401	spoIVFA	spoIVFA; stage IV sporulation protein FA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06415	spoVR	spoVR; stage V sporulation protein R	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06381	spoIID	spoIID; stage II sporulation protein D (peptidoglycan lytic transglycosylase) [EC:4.2.2.29]	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K03716	splB	splB; spore photoproduct lyase [EC:4.1.99.14]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06439	yraD	yraD; similar to spore coat protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06318	bofC	bofC; forespore regulator of the sigma-K checkpoint	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06402	spoIVFB	spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06378	spoIIAA	spoIIAA; stage II sporulation protein AA (anti-sigma F factor antagonist)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06324	cotA	cotA; spore coat protein A, manganese oxidase [EC:1.16.3.3]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06400	spoIVCA	spoIVCA; site-specific DNA recombinase	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06399	spoIVB	spoIVB; stage IV sporulation protein B [EC:3.4.21.116]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K18115	sqhC	sqhC; sporulenol synthase [EC:4.2.1.137]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	initiation / phosphorelay	K06350	kipA	kipA; antagonist of KipI	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06414	spoVM	spoVM; stage V sporulation protein M	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06283	spoIIID	spoIIID; putative DeoR family transcriptional regulator, stage III sporulation protein D	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06374	spmB	spmB; spore maturation protein B	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06408	spoVAF	spoVAF; stage V sporulation protein AF	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06394	spoIIIAE	spoIIIAE; stage III sporulation protein AE	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06317	bofA	bofA; inhibitor of the pro-sigma K processing machinery	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06407	spoVAE	spoVAE; stage V sporulation protein AE	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06416	spoVS	spoVS; stage V sporulation protein S	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06403	spoVAA	spoVAA; stage V sporulation protein AA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06436	yabG	yabG; spore coat assemly protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06431	sspN	sspN; small acid-soluble spore protein N (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06412	spoVG	spoVG; stage V sporulation protein G	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06411	spoVFB	spoVFB; dipicolinate synthase subunit B	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K13532	kinD	kinD; two-component system, sporulation sensor kinase D [EC:2.7.13.3]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06423	sspF	sspF; small acid-soluble spore protein F	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K08384	spoVD	spoVD; stage V sporulation protein D (sporulation-specific penicillin-binding protein)	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06398	spoIVA	spoIVA; stage IV sporulation protein A	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K02491	kinA	kinA; two-component system, sporulation sensor kinase A [EC:2.7.13.3]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06328	cotE	cotE; spore coat protein E	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06404	spoVAB	spoVAB; stage V sporulation protein AB	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06335	cotM	cotM; spore coat protein M	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K06371	sda	sda; developmental checkpoint coupling sporulation initiation to replication initiation	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K06377	spo0M	spo0M; sporulation-control protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K06349	kbaA	kbaA; KinB signaling pathway activation protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06384	spoIIM	spoIIM; stage II sporulation protein M	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06320	cgeB	cgeB; spore maturation protein CgeB	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06410	spoVFA	spoVFA; dipicolinate synthase subunit A	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06341	cotW	cotW; spore coat protein W	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06432	cotK	sspO, cotK; small acid-soluble spore protein O (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06417	spoVID	spoVID; stage VI sporulation protein D	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06397	spoIIIAH	spoIIIAH; stage III sporulation protein AH	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06330	cotH	cotH; spore coat protein H	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06387	spoIIR	spoIIR; stage II sporulation protein R	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K01994	gerE	gerE; LuxR family transcriptional regulator, transcriptional regulator of spore coat protein	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06395	spoIIIAF	spoIIIAF; stage III sporulation protein AF	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06433	cotL	sspP, cotL; small acid-soluble spore protein P (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06345	coxA	coxA; spore cortex protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06332	cotJA	cotJA; spore coat protein JA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06336	cotN	tasA, cotN; spore coat-associated protein N	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06419	sspB	SASP-B, sspB; small acid-soluble spore protein B (major beta-type SASP)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K07257	spsF	spsF; spore coat polysaccharide biosynthesis protein SpsF	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K06375	spo0B	spo0B; stage 0 sporulation protein B (sporulation initiation phosphotransferase) [EC:2.7.-.-]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06342	cotX	cotX; spore coat protein X	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06379	spoIIAB	spoIIAB; stage II sporulation protein AB (anti-sigma F factor) [EC:2.7.11.1]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06382	spoIIE	spoIIE; stage II sporulation protein E [EC:3.1.3.16]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	initiation / phosphorelay	K07697	kinB	kinB; two-component system, sporulation sensor kinase B [EC:2.7.13.3]	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06390	spoIIIAA	spoIIIAA; stage III sporulation protein AA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	initiation / phosphorelay	K06351	kipI	kipI; inhibitor of KinA	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06380	spoIIB	spoIIB; stage II sporulation protein B	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06314	rsfA	rsfA; prespore-specific regulator	KEGG entry names a sporulation stage/spore structure (other BRITE node)
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06334	cotJC	cotJC; spore coat protein JC	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06438	yqfD	yqfD; similar to stage IV sporulation protein	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06385	spoIIP	spoIIP; stage II sporulation protein P	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06405	spoVAC	spoVAC; stage V sporulation protein AC	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06344	cotZ	cotZ; spore coat protein Z	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06434	tlp	tlp; small acid-soluble spore protein (thioredoxin-like protein)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06392	spoIIIAC	spoIIIAC; stage III sporulation protein AC	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06420	sspC	sspC; small acid-soluble spore protein C (minor alpha/beta-type SASP)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	spore maturation (cortex, coat, SASP, DPA)	K06426	sspI	sspI; small acid-soluble spore protein I (minor)	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06386	spoIIQ	spoIIQ; stage II sporulation protein Q	ko00001 99978 Cell growth, spore-named, not germination
+Sporulation	stage II-IV sigma cascade (engulfment, sigE/F/G/K)	K06396	spoIIIAG	spoIIIAG; stage III sporulation protein AG	ko00001 99978 Cell growth, spore-named, not germination
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K01449	cwlJ	cwlJ; cell wall hydrolase	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06012	gpr	gpr; spore protease [EC:3.4.24.78]	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06289	gerAB	gerAB; spore germination protein AB	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06292	gerBB	gerBB; spore germination protein BB	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06294	gerD	gerD; spore germination protein D	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06295	gerKA	gerKA; spore germination protein KA	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06296	gerKB	gerKB; spore germination protein KB	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06297	gerKC	gerKC; spore germination protein KC	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06298	gerM	gerM; germination protein M	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06299	gerPA	gerPA; spore germination protein PA	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06300	gerPB	gerPB; spore germination protein PB	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06301	gerPC	gerPC; spore germination protein PC	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06302	gerPD	gerPD; spore germination protein PD	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06303	gerPE	gerPE; spore germination protein PE	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06304	gerPF	gerPF; spore germination protein PF	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06305	gerQ	gerQ; spore germination protein Q	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06306	sleL	sleL; cortical fragment-lytic enzyme [EC:3.2.1.-]	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06307	yfkQ	yfkQ; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06308	yfkR	yfkR; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06309	yfkT	yfkT; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06310	yndD	yndD; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06311	yndE	yndE; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06312	yndF	yndF; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Germination	receptors, GerP/GerD/GerM, cortex lysis, SASP protease	K06313	ypeB	ypeB; spore germination protein	KEGG name contains germination / cortical fragment-lytic / spore protease; + cwlJ (K01449)
+Chemotaxis	ko02030 minus flagellar-assembly members	K00575	cheR	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03406	mcp	mcp; methyl-accepting chemotaxis protein	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03407	cheA	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03408	cheW	cheW; purine-binding chemotaxis protein CheW	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03409	cheX	cheX; chemotaxis protein CheX	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03410	cheC	cheC; chemotaxis protein CheC	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03411	cheD	cheD; chemotaxis protein CheD [EC:3.5.1.44]	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03412	cheB	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03413	cheY	cheY; two-component system, chemotaxis family, chemotaxis protein CheY	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03414	cheZ	cheZ; chemotaxis protein CheZ	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03415	cheV	cheV; two-component system, chemotaxis family, chemotaxis protein CheV	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K03776	aer	aer; aerotaxis receptor	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K05874	tsr	tsr; methyl-accepting chemotaxis protein I, serine sensor receptor	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K05875	tar	tar; methyl-accepting chemotaxis protein II, aspartate sensor receptor	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K05876	trg	trg; methyl-accepting chemotaxis protein III, ribose and galactose sensor receptor	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K05877	tap	tap; methyl-accepting chemotaxis protein IV, peptide sensor receptor	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Chemotaxis	ko02030 minus flagellar-assembly members	K13924	cheBR	cheBR; two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61]	KEGG map ko02030 Bacterial chemotaxis, excluding members shared with ko02040 and the ABC substrate-binding proteins malE/rbsB/mglB/dppA
+Flagellum	ko02040	K02386	flgA	flgA; flagellar basal body P-ring formation protein FlgA	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02387	flgB	flgB; flagellar basal-body rod protein FlgB	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02388	flgC	flgC; flagellar basal-body rod protein FlgC	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02389	flgD	flgD; flagellar basal-body rod modification protein FlgD	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02390	flgE	flgE; flagellar hook protein FlgE	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02391	flgF	flgF; flagellar basal-body rod protein FlgF	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02392	flgG	flgG; flagellar basal-body rod protein FlgG	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02393	flgH	flgH; flagellar L-ring protein FlgH	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02394	flgI	flgI; flagellar P-ring protein FlgI	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02395	flgJ	flgJ; peptidoglycan hydrolase FlgJ	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02396	flgK	flgK; flagellar hook-associated protein 1	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02397	flgL	flgL; flagellar hook-associated protein 3 FlgL	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02398	flgM	flgM; negative regulator of flagellin synthesis FlgM	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02399	flgN	flgN; flagellar biosynthesis protein FlgN	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02400	flhA	flhA; flagellar biosynthesis protein FlhA	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02401	flhB	flhB; flagellar biosynthesis protein FlhB	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02402	flhC	flhC; flagellar transcriptional activator FlhC	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02403	flhD	flhD; flagellar transcriptional activator FlhD	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02405	whiG	fliA, whiG; RNA polymerase sigma factor FliA	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02406	hag	fliC, hag; flagellin	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02407	fliD	fliD; flagellar hook-associated protein 2	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02408	fliE	fliE; flagellar hook-basal body complex protein FliE	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02409	fliF	fliF; flagellar M-ring protein FliF	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02410	fliG	fliG; flagellar motor switch protein FliG	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02411	fliH	fliH; flagellar assembly protein FliH	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02412	fliI	fliI; flagellum-specific ATP synthase [EC:7.4.2.8]	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02413	fliJ	fliJ; flagellar protein FliJ	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02414	fliK	fliK; flagellar hook-length control protein FliK	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02415	fliL	fliL; flagellar protein FliL	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02416	fliM	fliM; flagellar motor switch protein FliM	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02417	fliN	fliN; flagellar motor switch protein FliN	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02418	fliZ	fliO, fliZ; flagellar protein FliO/FliZ	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02419	fliP	fliP; flagellar biosynthesis protein FliP	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02420	fliQ	fliQ; flagellar biosynthesis protein FliQ	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02421	fliR	fliR; flagellar biosynthesis protein FliR	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02422	fliS	fliS; flagellar secretion chaperone FliS	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02423	fliT	fliT; flagellar protein FliT	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02424	fliY	tcyA, tcyJ, fliY; L-cystine transport system substrate-binding protein	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02556	motA	motA; chemotaxis protein MotA	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K02557	motB	motB; chemotaxis protein MotB	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K03086	rpoD	rpoD; RNA polymerase primary sigma factor	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K03092	rpoN	rpoN; RNA polymerase sigma-54 factor	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K10564	motC	motC; chemotaxis protein MotC	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K10565	motD	motD; chemotaxis protein MotD	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K10941	flaK	flrA, fleQ, flaK; sigma-54 dependent transcriptional regulator, flagellar regulatory protein	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K10943	flaM	flrC, fleR, flaM; two-component system, response regulator FlrC	KEGG map ko02040 Flagellar assembly
+Flagellum	ko02040	K21218	motY	motY; sodium-type flagellar protein MotY	KEGG map ko02040 Flagellar assembly
+Ribosome hibernation + stringent response	hibernation	K03812	rmf	rmf; ribosome modulation factor	rmf, hpf, raiA (ko03009 ribosome biogenesis entries)
+Ribosome hibernation + stringent response	hibernation	K05808	hpf	hpf; ribosome hibernation promoting factor	rmf, hpf, raiA (ko03009 ribosome biogenesis entries)
+Ribosome hibernation + stringent response	hibernation	K05809	raiA	raiA; ribosome-associated inhibitor A	rmf, hpf, raiA (ko03009 ribosome biogenesis entries)
+Ribosome hibernation + stringent response	(p)ppGpp / stringent	K00951	relA	relA; GTP pyrophosphokinase [EC:2.7.6.5]	relA, spoT, small alarmone synthetase, gppA, dksA
+Ribosome hibernation + stringent response	(p)ppGpp / stringent	K01139	spoT	spoT; GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]	relA, spoT, small alarmone synthetase, gppA, dksA
+Ribosome hibernation + stringent response	(p)ppGpp / stringent	K01524	ppx-gppA	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]	relA, spoT, small alarmone synthetase, gppA, dksA
+Ribosome hibernation + stringent response	(p)ppGpp / stringent	K06204	dksA	dksA; RNA polymerase-binding transcription factor	relA, spoT, small alarmone synthetase, gppA, dksA
+Ribosome hibernation + stringent response	(p)ppGpp / stringent	K07816	E2.7.6.5	E2.7.6.5; GTP pyrophosphokinase [EC:2.7.6.5]	relA, spoT, small alarmone synthetase, gppA, dksA
+Overflow / fermentation	lactate	K00016	ldh	LDH, ldh; L-lactate dehydrogenase [EC:1.1.1.27]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	lactate	K03778	ldhA	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetate	K00625	pta	pta; phosphate acetyltransferase [EC:2.3.1.8]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetate	K13788	pta	pta; phosphate acetyltransferase [EC:2.3.1.8]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetate	K00925	ackA	ackA; acetate kinase [EC:2.7.2.1]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetate	K00156	poxB	poxB; pyruvate dehydrogenase (quinone) [EC:1.2.5.1]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetate	K00158	poxL	spxB, poxL; pyruvate oxidase [EC:1.2.3.3]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetoin/2,3-butanediol	K01575	aldC	alsD, budA, aldC; acetolactate decarboxylase [EC:4.1.1.5]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetoin/2,3-butanediol	K00004	butB	BDH, butB; (R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.4 1.1.1.- 1.1.1.303]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetoin/2,3-butanediol	K03366	budC	butA, budC; meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	acetoin/2,3-butanediol	K18009	budC	budC; meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	ethanol	K04072	adhE	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	ethanol	K01568	pdc	PDC, pdc; pyruvate decarboxylase [EC:4.1.1.1]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	ethanol	K13953	adhP	adhP; alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	formate (PFL)	K00656	pflD	E2.3.1.54, pflD; formate C-acetyltransferase [EC:2.3.1.54]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow / fermentation	formate (PFL)	K04069	pflE	pflA, pflC, pflE; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	product-forming steps of ko00620/ko00650/ko00010 (M00579 for pta-ackA)
+Overflow-product re-use	acetoin	K21416	acoA	acoA; acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha [EC:1.1.1.-]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K21417	acoB	acoB; acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta [EC:1.1.1.-]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K21405	acoR	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K04766	acuA	acuA; acetoin utilization protein AcuA [EC:2.3.1.-]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K04767	acuB	acuB; acetoin utilization protein AcuB	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K04768	acuC	acuC; acetoin utilization protein AcuC	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K16918	ytrF	ytrF; acetoin utilization transport system permease protein	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K16920	ytrE	ytrE; acetoin utilization transport system ATP-binding protein	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetoin	K16921	ytrB	ytrB; acetoin utilization transport system ATP-binding protein	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K18928	lldE	lldE; L-lactate dehydrogenase complex protein LldE	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K18929	lldF	lldF; L-lactate dehydrogenase complex protein LldF	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K00782	lldG	lldG; L-lactate dehydrogenase complex protein LldG	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K03777	dld	dld; D-lactate dehydrogenase (quinone) [EC:1.1.5.12]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K00102	dld	LDHD, dld; D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K18930	dld	dld; D-lactate dehydrogenase	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	lactate	K00101	FCB2	CYB2, FCB2; L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+Overflow-product re-use	acetate	K01895	acs	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	acetoin (aco/acu/ytr), lactate (lld/dld) and acetate (acs) re-assimilation
+C reserve - synthesis	glycogen	K00975	glgC	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen	K00703	glgA	glgA; starch synthase [EC:2.4.1.21]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen	K00700	glgB	GBE1, glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen	K16150	K16150	K16150; glycogen synthase [EC:2.4.1.11]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen	K16153	K16153	K16153; glycogen phosphorylase/synthase [EC:2.4.1.1 2.4.1.11]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen (GlgE)	K16147	glgE	glgE; starch synthase (maltosyl-transferring) [EC:2.4.99.16]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen (GlgE)	K16146	pep2	pep2; maltokinase [EC:2.7.1.175]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	glycogen (GlgE)/trehalose	K05343	treS	treS; maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	trehalose	K00697	otsA	otsA; trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	trehalose	K01087	otsB	otsB; trehalose 6-phosphate phosphatase [EC:3.1.3.12]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	trehalose	K16055	TPS	TPS; trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	trehalose	K06044	glgY	treY, glgY; (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	trehalose	K01236	glgZ	treZ, glgZ; maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	trehalose	K13057	treT	treT; trehalose synthase [EC:2.4.1.245]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	PHA	K03821	phbC	phaC, phbC; poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC [EC:2.3.1.304]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - synthesis	PHA	K00023	phbB	phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	M00854 / M00565 / GlgE route / phaC-phbB
+C reserve - mobilisation	glycogen	K00688	glgP	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]	M00855 glycogen degradation / PHA depolymerases / treP
+C reserve - mobilisation	glycogen	K02438	glgX	glgX; glycogen debranching enzyme [EC:3.2.1.196]	M00855 glycogen degradation / PHA depolymerases / treP
+C reserve - mobilisation	glycogen	K00705	malQ	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	M00855 glycogen degradation / PHA depolymerases / treP
+C reserve - mobilisation	PHA	K05973	phaZ	phaZ; poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75]	M00855 glycogen degradation / PHA depolymerases / treP
+C reserve - mobilisation	PHA	K22250	phaZ	phaZ; poly(3-hydroxyoctanoate) depolymerase [EC:3.1.1.76]	M00855 glycogen degradation / PHA depolymerases / treP
+C reserve - mobilisation	PHA	K03932	lpqC	lpqC; polyhydroxybutyrate depolymerase	M00855 glycogen degradation / PHA depolymerases / treP
+C reserve - mobilisation	trehalose	K05342	treP	treP; alpha,alpha-trehalose phosphorylase [EC:2.4.1.64]	M00855 glycogen degradation / PHA depolymerases / treP
+Ntr regulon (N limitation)	PII	K04751	glnB	glnB; nitrogen regulatory protein P-II 1	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	PII	K04752	glnK	glnK; nitrogen regulatory protein P-II 2	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	PII modification	K00990	glnD	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	GS adenylylation	K00982	glnE	glnE; [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	NtrB/NtrC	K07708	ntrB	glnL, ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	NtrB/NtrC	K07712	ntrC	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	NtrY/NtrX	K13598	ntrY	ntrY; two-component system, NtrC family, nitrogen regulation sensor histidine kinase NtrY [EC:2.7.13.3]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	NtrY/NtrX	K13599	ntrX	ntrX; two-component system, NtrC family, nitrogen regulation response regulator NtrX	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	Nac	K19338	nac	nac; LysR family transcriptional regulator, nitrogen assimilation regulatory protein	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	GlnR	K03713	glnR	glnR; MerR family transcriptional regulator, glutamine synthetase repressor	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	NtcA	K21561	ntcA	ntcA; CRP/FNR family transcriptional regulator, global nitrogen regulator	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	AmtB	K03320	MEP	amt, AMT, MEP; ammonium transporter, Amt family	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	GS	K01915	GLUL	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	urease	K01428	ureC	ureC; urease subunit alpha [EC:3.5.1.5]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	urease	K01429	ureB	ureB; urease subunit beta [EC:3.5.1.5]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Ntr regulon (N limitation)	urease	K01430	ureA	ureA; urease subunit gamma [EC:3.5.1.5]	N-limitation signal chain (PII-GlnD-GlnE, NtrBC/XY, Nac, GlnR, NtcA) + high-affinity uptake/assimilation (AmtB, GS) + urease; GOGAT/GDH and nitrate reduction excluded
+Pho regulon (P limitation)	PhoR/PhoB	K07636	phoR	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	PhoR/PhoB	K07657	phoB	phoB; two-component system, OmpR family, phosphate regulon response regulator PhoB	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	PhoR/PhoB	K07658	phoP	phoB1, phoP; two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	PhoU	K02039	phoU	phoU; phosphate transport system protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Pst	K02040	pstS	pstS; phosphate transport system substrate-binding protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Pst	K02037	pstC	pstC; phosphate transport system permease protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Pst	K02038	pstA	pstA; phosphate transport system permease protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Pst	K02036	pstB	pstB; phosphate transport system ATP-binding protein [EC:7.3.2.1]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	phosphatases	K01077	phoB	ALP, phoA, phoB; alkaline phosphatase [EC:3.1.3.1]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	phosphatases	K01113	phoD	phoD; alkaline phosphatase D [EC:3.1.3.1]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	PhoH	K06217	phoL	phoH, phoL; phosphate starvation-inducible protein PhoH and related proteins	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Ugp	K05813	ugpB	ugpB; sn-glycerol 3-phosphate transport system substrate-binding protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Ugp	K05814	ugpA	ugpA; sn-glycerol 3-phosphate transport system permease protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Ugp	K05815	ugpE	ugpE; sn-glycerol 3-phosphate transport system permease protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Ugp	K05816	ugpC	ugpC; sn-glycerol 3-phosphate transport system ATP-binding protein [EC:7.6.2.10]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Ugp	K01126	ugpQ	E3.1.4.46, glpQ, ugpQ; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Phn transporter	K02041	phnC	phnC; phosphonate transport system ATP-binding protein [EC:7.3.2.2]	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Phn transporter	K02042	phnE	phnE; phosphonate transport system permease protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Pho regulon (P limitation)	Phn transporter	K02044	phnD	phnD; phosphonate transport system substrate-binding protein	PhoR-PhoB/PhoP, PhoU, Pst (M00222), alkaline phosphatases, PhoH, Ugp, Phn uptake
+Low-O2 markers	cytochrome bd (M00153)	K00425	cydA	cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	cytochrome bd (M00153)	K00426	cydB	cydB; cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	cbb3 oxidase (M00156)	K00404	ccoN	ccoN; cytochrome c oxidase cbb3-type subunit I [EC:7.1.1.9]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	cbb3 oxidase (M00156)	K00405	ccoO	ccoO; cytochrome c oxidase cbb3-type subunit II	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	cbb3 oxidase (M00156)	K00406	ccoP	ccoP; cytochrome c oxidase cbb3-type subunit III	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	cbb3 oxidase (M00156)	K00407	ccoQ	ccoQ; cytochrome c oxidase cbb3-type subunit IV	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	cbb3 oxidase (M00156)	K15862	ccoNO	ccoNO; cytochrome c oxidase cbb3-type subunit I/II [EC:7.1.1.9]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K01420	fnr	fnr; CRP/FNR family transcriptional regulator, anaerobic regulatory protein	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K21562	flp	flp; CRP/FNR family transcriptional regulator, anaerobic regulatory protein	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K07773	arcA	arcA; two-component system, OmpR family, aerobic respiration control protein ArcA	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K07648	arcB	arcB; two-component system, OmpR family, aerobic respiration control sensor histidine kinase ArcB [EC:2.7.13.3]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K07775	resD	resD; two-component system, OmpR family, response regulator ResD	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K07651	resE	resE; two-component system, OmpR family, sensor histidine kinase ResE [EC:2.7.13.3]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K10851	nreA	nreA; nitrogen regulatory protein A	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K07683	nreB	nreB; two-component system, NarL family, sensor histidine kinase NreB [EC:2.7.13.3]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-sensing regulator	K07696	nreC	nreC; two-component system, NarL family, response regulator NreC	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-independent enzymes	K02495	hemZ	hemN, hemZ; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.98.3]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-independent enzymes	K21636	nrdD	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Low-O2 markers	O2-independent enzymes	K04068	nrdG	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	high-affinity oxidases (M00153, M00156), Fnr/ArcBA/ResDE/NreABC, HemN, NrdDG. Nitrate/nitrite reductases deliberately excluded: narGH = nxrAB in Nitrospira
+Ribosomal proteins (reference)	BRITE ko03011	K02863	rplA	RP-L1, MRPL1, rplA; large subunit ribosomal protein L1	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02864	rplJ	RP-L10, MRPL10, rplJ; large subunit ribosomal protein L10	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02866	RPL10	RP-L10e, RPL10; large subunit ribosomal protein L10e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02867	rplK	RP-L11, MRPL11, rplK; large subunit ribosomal protein L11	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02871	rplM	RP-L13, MRPL13, rplM; large subunit ribosomal protein L13	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02874	rplN	RP-L14, MRPL14, rplN; large subunit ribosomal protein L14	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02876	rplO	RP-L15, MRPL15, rplO; large subunit ribosomal protein L15	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02878	rplP	RP-L16, MRPL16, rplP; large subunit ribosomal protein L16	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02879	rplQ	RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02880	RPL17	RP-L17e, RPL17; large subunit ribosomal protein L17e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02881	rplR	RP-L18, MRPL18, rplR; large subunit ribosomal protein L18	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02884	rplS	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02885	RPL19	RP-L19e, RPL19; large subunit ribosomal protein L19e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02886	rplB	RP-L2, MRPL2, RML2, rplB; large subunit ribosomal protein L2	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02887	rplT	RP-L20, MRPL20, rplT; large subunit ribosomal protein L20	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02888	rplU	RP-L21, MRPL21, rplU; large subunit ribosomal protein L21	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02890	rplV	RP-L22, MRPL22, rplV; large subunit ribosomal protein L22	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02892	rplW	RP-L23, MRPL23, rplW; large subunit ribosomal protein L23	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02894	RPL23	RP-L23e, RPL23; large subunit ribosomal protein L23e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02895	rplX	RP-L24, MRPL24, rplX; large subunit ribosomal protein L24	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02896	RPL24	RP-L24e, RPL24; large subunit ribosomal protein L24e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02897	rplY	RP-L25, rplY; large subunit ribosomal protein L25	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02899	rpmA	RP-L27, MRPL27, rpmA; large subunit ribosomal protein L27	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02902	rpmB	RP-L28, MRPL28, rpmB; large subunit ribosomal protein L28	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02904	rpmC	RP-L29, rpmC; large subunit ribosomal protein L29	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02906	rplC	RP-L3, MRPL3, rplC; large subunit ribosomal protein L3	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02907	rpmD	RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02909	rpmE	RP-L31, rpmE; large subunit ribosomal protein L31	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02911	rpmF	RP-L32, MRPL32, rpmF; large subunit ribosomal protein L32	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02913	rpmG	RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02914	rpmH	RP-L34, MRPL34, rpmH; large subunit ribosomal protein L34	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02916	rpmI	RP-L35, MRPL35, rpmI; large subunit ribosomal protein L35	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02919	rpmJ	RP-L36, MRPL36, rpmJ; large subunit ribosomal protein L36	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02925	RPL3	RP-L3e, RPL3; large subunit ribosomal protein L3e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02926	rplD	RP-L4, MRPL4, rplD; large subunit ribosomal protein L4	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02927	UBA52	RP-L40e, RPL40, UBA52; ubiquitin-large subunit ribosomal protein L40e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02930	RPL4	RP-L4e, RPL4; large subunit ribosomal protein L4e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02931	rplE	RP-L5, MRPL5, rplE; large subunit ribosomal protein L5	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02932	RPL5	RP-L5e, RPL5; large subunit ribosomal protein L5e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02933	rplF	RP-L6, MRPL6, rplF; large subunit ribosomal protein L6	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02935	rplL	RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02936	RPL7A	RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02937	RPL7	RP-L7e, RPL7; large subunit ribosomal protein L7e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02938	RPL8	RP-L8e, RPL8; large subunit ribosomal protein L8e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02939	rplI	RP-L9, MRPL9, rplI; large subunit ribosomal protein L9	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02945	rpsA	RP-S1, rpsA; small subunit ribosomal protein S1	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02946	rpsJ	RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02948	rpsK	RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02950	rpsL	RP-S12, MRPS12, rpsL; small subunit ribosomal protein S12	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02952	rpsM	RP-S13, rpsM; small subunit ribosomal protein S13	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02954	rpsN	RP-S14, MRPS14, rpsN; small subunit ribosomal protein S14	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02955	RPS14	RP-S14e, RPS14; small subunit ribosomal protein S14e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02956	rpsO	RP-S15, MRPS15, rpsO; small subunit ribosomal protein S15	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02957	RPS15A	RP-S15Ae, RPS15A; small subunit ribosomal protein S15Ae	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02959	rpsP	RP-S16, MRPS16, rpsP; small subunit ribosomal protein S16	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02961	rpsQ	RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02963	rpsR	RP-S18, MRPS18, rpsR; small subunit ribosomal protein S18	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02965	rpsS	RP-S19, RSM19, rpsS; small subunit ribosomal protein S19	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02967	rpsB	RP-S2, MRPS2, rpsB; small subunit ribosomal protein S2	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02968	rpsT	RP-S20, rpsT; small subunit ribosomal protein S20	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02969	RPS20	RP-S20e, RPS20; small subunit ribosomal protein S20e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02970	rpsU	RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02973	RPS23	RP-S23e, RPS23; small subunit ribosomal protein S23e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02977	UBA80	RP-S27Ae, RPS27A, UBA80; ubiquitin-small subunit ribosomal protein S27Ae	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02981	RPS2	RP-S2e, RPS2; small subunit ribosomal protein S2e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02982	rpsC	RP-S3, rpsC; small subunit ribosomal protein S3	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02983	RPS30	RP-S30e, RPS30; small subunit ribosomal protein S30e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02985	RPS3	RP-S3e, RPS3; small subunit ribosomal protein S3e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02986	rpsD	RP-S4, NAM9, rpsD; small subunit ribosomal protein S4	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02987	RPS4	RP-S4e, RPS4; small subunit ribosomal protein S4e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02988	rpsE	RP-S5, MRPS5, rpsE; small subunit ribosomal protein S5	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02990	rpsF	RP-S6, MRPS6, rpsF; small subunit ribosomal protein S6	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02991	RPS6	RP-S6e, RPS6; small subunit ribosomal protein S6e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02992	rpsG	RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02994	rpsH	RP-S8, MRPS8, rpsH; small subunit ribosomal protein S8	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02996	rpsI	RP-S9, MRPS9, rpsI; small subunit ribosomal protein S9	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K02997	RPS9	RP-S9e, RPS9; small subunit ribosomal protein S9e	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K07590	rplGB	RP-L7A, rplGB; large subunit ribosomal protein L7A	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K19032	PSRP3	PSRP3; 30S ribosomal protein 3	BRITE ko03011 Ribosome
+Ribosomal proteins (reference)	BRITE ko03011	K19033	rpsU	PSRP4, RPS31, rpsU; 30S ribosomal protein S31/Thx	BRITE ko03011 Ribosome

@@ -1,0 +1,44 @@
+run finished: 2026-08-18 09:56:49 MDT
+DESeq2 version: 1.50.2
+design: ~ treatment * timepoint | alpha = 0.05 | |log2FC| flag = 1.0
+filter applied upstream: total count >= 10 AND detected in >= 3 of 18 samples
+
+R version 4.5.3 (2026-03-11)
+Platform: aarch64-apple-darwin20
+Running under: macOS Tahoe 26.6.1
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Denver
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] DESeq2_1.50.2               SummarizedExperiment_1.40.0
+ [3] Biobase_2.70.0              MatrixGenerics_1.22.0      
+ [5] matrixStats_1.5.0           GenomicRanges_1.62.1       
+ [7] Seqinfo_1.0.0               IRanges_2.44.0             
+ [9] S4Vectors_0.48.1            BiocGenerics_0.56.0        
+[11] generics_0.1.4             
+
+loaded via a namespace (and not attached):
+ [1] Matrix_1.7-5        gtable_0.3.6        dplyr_1.2.1        
+ [4] compiler_4.5.3      tidyselect_1.2.1    Rcpp_1.1.1-1.1     
+ [7] parallel_4.5.3      dichromat_2.0-0.1   scales_1.4.0       
+[10] BiocParallel_1.44.0 lattice_0.22-9      ggplot2_4.0.3      
+[13] R6_2.6.1            XVector_0.50.0      S4Arrays_1.10.1    
+[16] tibble_3.3.1        DelayedArray_0.36.1 pillar_1.11.1      
+[19] RColorBrewer_1.1-3  rlang_1.2.0         S7_0.2.2           
+[22] SparseArray_1.10.10 cli_3.6.6           magrittr_2.0.5     
+[25] locfit_1.5-9.12     grid_4.5.3          lifecycle_1.0.5    
+[28] vctrs_0.7.3         glue_1.8.1          farver_2.1.2       
+[31] codetools_0.2-20    abind_1.4-8         pkgconfig_2.0.3    
+[34] tools_4.5.3        

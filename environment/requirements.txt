@@ -1,0 +1,8 @@
+# Python packages used by the local steps (folders 02-06)
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+openpyxl
+pyarrow   # parquet long table written by 06_taxonomic_decomposition/build_family_ko_long_table.py

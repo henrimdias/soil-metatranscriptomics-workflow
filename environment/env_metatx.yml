@@ -1,0 +1,26 @@
+name: metatx
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - fastqc
+  - multiqc
+  - fastp
+  - sortmerna
+  - diamond
+  - megahit
+  - bowtie2
+  - samtools
+  - hmmer
+  - prodigal
+  - subread          # featureCounts
+  - salmon
+  - seqkit
+  - parallel
+  - pigz
+  - r-base
+  - r-tidyverse
+  - r-data.table
+  - r-optparse

@@ -1,0 +1,2 @@
+db,dmnd_path,taxdump_names,taxdump_nodes,ranks,parse_with_taxdump
+uniref90,/path/to/scratch/metatx/db/uniref90/uniref90_tax.dmnd,/path/to/scratch/dbs/taxdump/names.dmp,/path/to/scratch/dbs/taxdump/nodes.dmp,superkingdom;kingdom;phylum;class;order;family;genus;species,

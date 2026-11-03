@@ -1,0 +1,24 @@
+# data and outputs are not versioned
+inputs/
+results/
+reference/
+out/
+data/
+logs/
+work/
+*.fq.gz
+*.fastq.gz
+*.dmnd
+*.parquet
+*.tif
+*.tiff
+
+# OS / editor / language clutter
+.DS_Store
+~$*
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+.nextflow*

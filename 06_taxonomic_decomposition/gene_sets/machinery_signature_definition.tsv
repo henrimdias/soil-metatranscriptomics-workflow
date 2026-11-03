@@ -1,0 +1,134 @@
+unit	KO	symbol
+Ribosomal proteins	K02863	rplA
+Ribosomal proteins	K02864	rplJ
+Ribosomal proteins	K02866	RPL10
+Ribosomal proteins	K02867	rplK
+Ribosomal proteins	K02871	rplM
+Ribosomal proteins	K02874	rplN
+Ribosomal proteins	K02876	rplO
+Ribosomal proteins	K02878	rplP
+Ribosomal proteins	K02879	rplQ
+Ribosomal proteins	K02880	RPL17
+Ribosomal proteins	K02881	rplR
+Ribosomal proteins	K02884	rplS
+Ribosomal proteins	K02885	RPL19
+Ribosomal proteins	K02886	rplB
+Ribosomal proteins	K02887	rplT
+Ribosomal proteins	K02888	rplU
+Ribosomal proteins	K02890	rplV
+Ribosomal proteins	K02892	rplW
+Ribosomal proteins	K02894	RPL23
+Ribosomal proteins	K02895	rplX
+Ribosomal proteins	K02896	RPL24
+Ribosomal proteins	K02897	rplY
+Ribosomal proteins	K02899	rpmA
+Ribosomal proteins	K02902	rpmB
+Ribosomal proteins	K02904	rpmC
+Ribosomal proteins	K02906	rplC
+Ribosomal proteins	K02907	rpmD
+Ribosomal proteins	K02909	rpmE
+Ribosomal proteins	K02911	rpmF
+Ribosomal proteins	K02913	rpmG
+Ribosomal proteins	K02914	rpmH
+Ribosomal proteins	K02916	rpmI
+Ribosomal proteins	K02919	rpmJ
+Ribosomal proteins	K02925	RPL3
+Ribosomal proteins	K02926	rplD
+Ribosomal proteins	K02927	UBA52
+Ribosomal proteins	K02930	RPL4
+Ribosomal proteins	K02931	rplE
+Ribosomal proteins	K02932	RPL5
+Ribosomal proteins	K02933	rplF
+Ribosomal proteins	K02935	rplL
+Ribosomal proteins	K02936	RPL7A
+Ribosomal proteins	K02937	RPL7
+Ribosomal proteins	K02938	RPL8
+Ribosomal proteins	K02939	rplI
+Ribosomal proteins	K02945	rpsA
+Ribosomal proteins	K02946	rpsJ
+Ribosomal proteins	K02948	rpsK
+Ribosomal proteins	K02950	rpsL
+Ribosomal proteins	K02952	rpsM
+Ribosomal proteins	K02954	rpsN
+Ribosomal proteins	K02955	RPS14
+Ribosomal proteins	K02956	rpsO
+Ribosomal proteins	K02957	RPS15A
+Ribosomal proteins	K02959	rpsP
+Ribosomal proteins	K02961	rpsQ
+Ribosomal proteins	K02963	rpsR
+Ribosomal proteins	K02965	rpsS
+Ribosomal proteins	K02967	rpsB
+Ribosomal proteins	K02968	rpsT
+Ribosomal proteins	K02969	RPS20
+Ribosomal proteins	K02970	rpsU
+Ribosomal proteins	K02973	RPS23
+Ribosomal proteins	K02977	UBA80
+Ribosomal proteins	K02981	RPS2
+Ribosomal proteins	K02982	rpsC
+Ribosomal proteins	K02983	RPS30
+Ribosomal proteins	K02985	RPS3
+Ribosomal proteins	K02986	rpsD
+Ribosomal proteins	K02987	RPS4
+Ribosomal proteins	K02988	rpsE
+Ribosomal proteins	K02990	rpsF
+Ribosomal proteins	K02991	RPS6
+Ribosomal proteins	K02992	rpsG
+Ribosomal proteins	K02994	rpsH
+Ribosomal proteins	K02996	rpsI
+Ribosomal proteins	K02997	RPS9
+Ribosomal proteins	K07590	rplGB
+Ribosomal proteins	K19032	PSRP3
+Ribosomal proteins	K19033	RPS31
+Chaperones (GroESL / DnaK-DnaJ-GrpE)	K04077	groEL
+Chaperones (GroESL / DnaK-DnaJ-GrpE)	K04078	groES
+Chaperones (GroESL / DnaK-DnaJ-GrpE)	K04043	dnaK
+Chaperones (GroESL / DnaK-DnaJ-GrpE)	K03686	dnaJ
+Chaperones (GroESL / DnaK-DnaJ-GrpE)	K03687	grpE
+Sec / SRP translocon	K03070	secA
+Sec / SRP translocon	K03076	secY
+Sec / SRP translocon	K03073	secE
+Sec / SRP translocon	K03075	secG
+Sec / SRP translocon	K03072	secD
+Sec / SRP translocon	K03074	secF
+Sec / SRP translocon	K12257	secDF
+Sec / SRP translocon	K03210	yajC
+Sec / SRP translocon	K03106	ffh
+Sec / SRP translocon	K03110	ftsY
+Sec / SRP translocon	K03217	yidC
+Sec / SRP translocon	K03100	lepB
+F-type ATP synthase	K02111	atpA
+F-type ATP synthase	K02108	atpB
+F-type ATP synthase	K02114	atpC
+F-type ATP synthase	K02112	atpD
+F-type ATP synthase	K02110	atpE
+F-type ATP synthase	K02109	atpF
+F-type ATP synthase	K02115	atpG
+F-type ATP synthase	K02113	atpH
+Cell wall: peptidoglycan	K00790	murA
+Cell wall: peptidoglycan	K00075	murB
+Cell wall: peptidoglycan	K01924	murC
+Cell wall: peptidoglycan	K01925	murD
+Cell wall: peptidoglycan	K01928	murE
+Cell wall: peptidoglycan	K01929	murF
+Cell wall: peptidoglycan	K02563	murG
+Cell wall: peptidoglycan	K01000	mraY
+Cell wall: peptidoglycan	K01921	ddl
+Cell wall: peptidoglycan	K01775	alr
+Cell wall: peptidoglycan	K00820	glmS
+Cell wall: peptidoglycan	K03431	glmM
+Cell wall: peptidoglycan	K04042	glmU
+Cell wall: peptidoglycan	K03587	ftsI
+Cell wall: peptidoglycan	K05515	mrdA
+Cell wall: peptidoglycan	K03588	ftsW
+Cell wall: peptidoglycan	K05837	rodA
+Cell wall: peptidoglycan	K05366	mrcA
+Cell wall: DAP branch	K00928	lysC
+Cell wall: DAP branch	K00133	asd
+Cell wall: DAP branch	K01714	dapA
+Cell wall: DAP branch	K00215	dapB
+Cell wall: DAP branch	K00674	dapD
+Cell wall: DAP branch	K05822	dapH
+Cell wall: DAP branch	K14267	dapC
+Cell wall: DAP branch	K05823	dapL
+Cell wall: DAP branch	K01439	dapE
+Cell wall: DAP branch	K01778	dapF
